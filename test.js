@@ -1,3 +1,0 @@
-alert('labas');
-
-alert('bumbuliukas');
