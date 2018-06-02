@@ -1,1 +1,3 @@
 alert('labas');
+
+alert('bumbuliukas');
